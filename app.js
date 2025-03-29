@@ -26,7 +26,7 @@ app.use('/uploads',express.static("uploads"));
 
 
 app.use(cors({
-    origin: ["http://localhost:5173"],
+    origin: ["http://localhost:5173","https://grand-sprite-077b97.netlify.app"],
     credentials: true,
 }))
 
