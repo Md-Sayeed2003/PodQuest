@@ -27,11 +27,19 @@
 
 ---
 
-
-
 ## 🖥️ UI Screenshots
 
+### 🏠 Home Page
+![Home Page](home-page.png)
+The landing page provides a welcoming introduction to the PodQuest platform, showcasing featured podcasts, categories, and a call to action for users to explore or upload podcasts.
 
+---
+
+### 👤 Profile Section
+![Profile Page](profile-page.png)
+Displays user details, their uploaded podcasts, and options to update profile settings or logout.
+
+---
 
 ### 📥 Add Podcast Page
 ![Add Podcast Page](add-podcast-page.png)
@@ -57,12 +65,9 @@ A dedicated page to listen to individual podcast episodes with playback controls
 
 ---
 
-### 👤 Profile Section
-![Profile Page](profile-page.png)
-Displays user details, their uploaded podcasts, and options to update profile settings or logout.
+### 🔐 Login Page
+![Login Page](login-page.png)
+Users can log in securely using their credentials. JWT-based authentication ensures secure access to personal features and podcast uploads.
 
 ---
-
-
-
 
